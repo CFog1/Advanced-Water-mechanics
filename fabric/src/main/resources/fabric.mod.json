@@ -1,27 +1,25 @@
 {
     "schemaVersion": 1,
-    "id": "mod_id",
-    "version": "${version}",
-    "name": "${mod_name}",
+    "id": "awm",
+    "version": "1.0.0",
+    "name": "advancedwatermechanics",
     "description": "${description}",
     "authors": [
-        "${mod_author}"
+        "CFog1"
     ],
     "contact": {
-        "homepage": "https://fabricmc.net/",
-        "sources": "https://github.com/FabricMC/fabric-example-mod"
+        "sources": "https://github.com/CFog1/Advanced-Water-Mechanics"
     },
     "license": "${license}",
-    "icon": "assets/modid/${mod_id}.png",
     "environment": "*",
     "entrypoints": {
         "main": [
-            "com.example.examplemod.ExampleMod"
+            "com.cfog1.advancedwatermechanics.fabric"
         ]
     },
     "mixins": [
-        "${mod_id}.mixins.json",
-        "${mod_id}.fabric.mixins.json"
+        "advancedwatermechanics.mixins.json",
+        "advancedwatermechanics.fabric.mixins.json"
     ],
     "depends": {
         "fabricloader": ">=0.14",

@@ -1,4 +1,4 @@
-package com.example.examplemod.platform.services;
+package com.cfog1.advancedwatermechanics.platform.services;
 
 public interface IPlatformHelper {
 

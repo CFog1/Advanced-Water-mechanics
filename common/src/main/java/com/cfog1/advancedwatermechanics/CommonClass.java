@@ -1,6 +1,6 @@
-package com.example.examplemod;
+package com.cfog1.advancedwatermechanics;
 
-import com.example.examplemod.platform.Services;
+import com.cfog1.advancedwatermechanics.platform.Services;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.world.item.Items;
 

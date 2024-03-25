@@ -1,6 +1,6 @@
-package com.example.examplemod.platform;
+package com.cfog1.advancedwatermechanics.platform;
 
-import com.example.examplemod.platform.services.IPlatformHelper;
+import com.cfog1.advancedwatermechanics.platform.services.IPlatformHelper;
 import net.minecraftforge.fml.ModList;
 import net.minecraftforge.fml.loading.FMLLoader;
 

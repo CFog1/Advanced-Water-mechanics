@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package com.cfog1.advancedwatermechanics;
 
 import net.minecraftforge.fml.common.Mod;
 

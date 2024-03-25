@@ -1,6 +1,6 @@
-package com.example.examplemod.platform;
+package com.cfog1.advancedwatermechanics.platform;
 
-import com.example.examplemod.platform.services.IPlatformHelper;
+import com.cfog1.advancedwatermechanics.platform.services.IPlatformHelper;
 import net.fabricmc.loader.api.FabricLoader;
 
 public class FabricPlatformHelper implements IPlatformHelper {

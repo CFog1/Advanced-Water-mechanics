@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package com.cfog1.advancedwatermechanics;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
